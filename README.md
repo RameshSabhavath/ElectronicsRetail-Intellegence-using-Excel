@@ -8,7 +8,7 @@
 
 ## Excel Dashboard
 <p align="center">
-  <img src="Dashboard_ss.jpeg" width="1100" height="500"/>
+  <img src="Dashboard_ss.jpeg" width="1100" height="700"/>
 </p>
 
 
